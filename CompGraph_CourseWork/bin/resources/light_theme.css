@@ -1,0 +1,68 @@
+#mainVbox {
+    -fx-background-color: #ffffff; /*  */
+    -fx-margin: 10px; /* */
+}
+
+/* */
+.tab-pane {
+    -fx-background-color: #ffffff; /*  */
+    -fx-margin: 5px; /*  */
+}
+
+.tab {
+    -fx-background-color: #f0f0f0; /*  */
+    -fx-text-fill: #000000; /*  */
+    -fx-margin: 5px; /*  */
+}
+
+/*  */
+.label, .text-field {
+    -fx-font-size: 14px; /*  */
+    -fx-text-fill: #000000; /*  */
+    -fx-margin: 5px; /*  */
+}
+
+/*  */
+.check-box {
+    -fx-font-size: 14px; /*  */
+}
+
+/*  */
+.button {
+    -fx-font-size: 12px; /*  */
+    -fx-text-fill: #000000; /*  */
+    -fx-background-color: #B0E0E6; /* */
+    -fx-margin: 5px; /*  */
+}
+
+/*  */
+.menu-bar {
+    -fx-background-color: #ffffff; /*  */
+    -fx-margin: 5px; /*  */
+}
+
+.menu {
+    -fx-background-color: #f0f0f0; /*  */
+    -fx-text-fill: #000000; /*  */
+    -fx-margin: 5px; /*  */
+}
+
+/*  */
+.tool-bar {
+    -fx-background-color: #f0f0f0; /*  */
+    -fx-margin: 5px; /*  */
+}
+
+/*  */
+.tab-pane {
+    -fx-background-color: #ffffff; /*  */
+    -fx-margin: 5px; /*  */
+	-fx-background-color: #ebebeb; /*  */
+}
+
+.tab {
+	-fx-font-size: 14px; /*  */
+    -fx-background-color: #bbefcd; /*  */
+    -fx-text-fill: #000000; /*  */
+    -fx-margin: 5px; /*  */
+}
